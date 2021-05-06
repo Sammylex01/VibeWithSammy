@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vibes With Sammy</string>
+    <string name="songs">Song</string>
+    <string name="top_artist">Top Artist</string>
+    <string name="top_songs">Top Songs</string>
+    <string name="artistName_example">Roddy Ricch</string>
+    <string name="songName_example">Down Below</string>
+
+</resources>
